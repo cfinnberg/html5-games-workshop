@@ -26,7 +26,7 @@ In the half-day workshop we ran in Barcelona, the people who were fluent in Java
 
 ### Preparations
 
-Make sure that all participants can **run a local server** in their machines _before_ the event starts (point them to the [_Setup your machine for HTML5 game development_ en/guides/setup/setup-your-machine/) guide). For people with Mac or Linux machines this is trivial and can be explained at the event (i.e. Python –which comes with a local server– comes pre-installed in these OS), but people running Windows will probably need to download additional software.
+Make sure that all participants can **run a local server** in their machines _before_ the event starts (point them to the [_Setup your machine for HTML5 game development_](/en/guides/setup/setup-your-machine/) guide). For people with Mac or Linux machines this is trivial and can be explained at the event (i.e. Python –which comes with a local server– comes pre-installed in these OS), but people running Windows will probably need to download additional software.
 
 It's convenient that an **introduction to game development** is delivered. You can use [this presentation deck](https://belen-albeza.github.io/intro-gamedev/#1) by Belén for this matter. The goal is to provide some basic game development concepts (such as what is a sprite, a bitmap font, game states, etc.) as well as motivation and reasons to **make games for the Web**.
 
